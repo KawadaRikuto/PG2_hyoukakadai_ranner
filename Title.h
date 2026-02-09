@@ -1,0 +1,6 @@
+﻿#pragma once
+class Title {
+public:
+    void Update(char* keys, char* preKeys, int& scene);
+    void Draw();
+};
